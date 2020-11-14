@@ -1,6 +1,6 @@
 # ITK Tutorial:
 - Initial Template
-    run itk/initial_template/hw1.cxx
+  - run itk/initial_template/hw1.cxx
 
 - Affine Registration
  
